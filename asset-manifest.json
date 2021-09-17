@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alexandrumarian/static/css/main.7334b0bf.chunk.css",
-    "main.js": "/alexandrumarian/static/js/main.fb2714d8.chunk.js",
-    "main.js.map": "/alexandrumarian/static/js/main.fb2714d8.chunk.js.map",
+    "main.js": "/alexandrumarian/static/js/main.b07a7edb.chunk.js",
+    "main.js.map": "/alexandrumarian/static/js/main.b07a7edb.chunk.js.map",
     "runtime-main.js": "/alexandrumarian/static/js/runtime-main.910d34bf.js",
     "runtime-main.js.map": "/alexandrumarian/static/js/runtime-main.910d34bf.js.map",
     "static/js/2.26225f46.chunk.js": "/alexandrumarian/static/js/2.26225f46.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.910d34bf.js",
     "static/js/2.26225f46.chunk.js",
     "static/css/main.7334b0bf.chunk.css",
-    "static/js/main.fb2714d8.chunk.js"
+    "static/js/main.b07a7edb.chunk.js"
   ]
 }
