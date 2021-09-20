@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/alexandrumarian/static/css/main.7334b0bf.chunk.css",
-    "main.js": "/alexandrumarian/static/js/main.f58345e8.chunk.js",
-    "main.js.map": "/alexandrumarian/static/js/main.f58345e8.chunk.js.map",
-    "runtime-main.js": "/alexandrumarian/static/js/runtime-main.910d34bf.js",
-    "runtime-main.js.map": "/alexandrumarian/static/js/runtime-main.910d34bf.js.map",
-    "static/js/2.26225f46.chunk.js": "/alexandrumarian/static/js/2.26225f46.chunk.js",
-    "static/js/2.26225f46.chunk.js.map": "/alexandrumarian/static/js/2.26225f46.chunk.js.map",
-    "static/js/3.3948ea53.chunk.js": "/alexandrumarian/static/js/3.3948ea53.chunk.js",
-    "static/js/3.3948ea53.chunk.js.map": "/alexandrumarian/static/js/3.3948ea53.chunk.js.map",
+    "main.css": "/alexandrumarian/static/css/main.af61170d.chunk.css",
+    "main.js": "/alexandrumarian/static/js/main.8a25aa01.chunk.js",
+    "main.js.map": "/alexandrumarian/static/js/main.8a25aa01.chunk.js.map",
+    "runtime-main.js": "/alexandrumarian/static/js/runtime-main.1da7a43d.js",
+    "runtime-main.js.map": "/alexandrumarian/static/js/runtime-main.1da7a43d.js.map",
+    "static/js/2.4874749d.chunk.js": "/alexandrumarian/static/js/2.4874749d.chunk.js",
+    "static/js/2.4874749d.chunk.js.map": "/alexandrumarian/static/js/2.4874749d.chunk.js.map",
+    "static/js/3.2af2e3cd.chunk.js": "/alexandrumarian/static/js/3.2af2e3cd.chunk.js",
+    "static/js/3.2af2e3cd.chunk.js.map": "/alexandrumarian/static/js/3.2af2e3cd.chunk.js.map",
     "index.html": "/alexandrumarian/index.html",
-    "static/css/main.7334b0bf.chunk.css.map": "/alexandrumarian/static/css/main.7334b0bf.chunk.css.map",
-    "static/js/2.26225f46.chunk.js.LICENSE.txt": "/alexandrumarian/static/js/2.26225f46.chunk.js.LICENSE.txt",
+    "static/css/main.af61170d.chunk.css.map": "/alexandrumarian/static/css/main.af61170d.chunk.css.map",
+    "static/js/2.4874749d.chunk.js.LICENSE.txt": "/alexandrumarian/static/js/2.4874749d.chunk.js.LICENSE.txt",
     "static/media/developer.ad054589.jpg": "/alexandrumarian/static/media/developer.ad054589.jpg",
     "static/media/maintainance.2864baa1.jpg": "/alexandrumarian/static/media/maintainance.2864baa1.jpg",
     "static/media/plane1.af460800.jpg": "/alexandrumarian/static/media/plane1.af460800.jpg",
     "static/media/shop ideea1.e3333aad.png": "/alexandrumarian/static/media/shop ideea1.e3333aad.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.910d34bf.js",
-    "static/js/2.26225f46.chunk.js",
-    "static/css/main.7334b0bf.chunk.css",
-    "static/js/main.f58345e8.chunk.js"
+    "static/js/runtime-main.1da7a43d.js",
+    "static/js/2.4874749d.chunk.js",
+    "static/css/main.af61170d.chunk.css",
+    "static/js/main.8a25aa01.chunk.js"
   ]
 }
